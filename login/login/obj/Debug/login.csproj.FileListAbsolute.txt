@@ -1,0 +1,29 @@
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\bin\Debug\login.exe
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\bin\Debug\login.pdb
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.Form1.resources
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.Properties.Resources.resources
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.exe
+E:\PRACTICAS\C#\sharp\proyecto login\login\login\obj\Debug\login.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.exe
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\login.exe
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\login.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\negocios.dll
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\datos.dll
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\negocios.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\bin\Debug\datos.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Properties.Resources.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.VentanaPrincipal.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.login2.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.login.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Recibodecaja.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Recibodeingreso.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Registrodeclientes.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Registroderecibodecaja.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Registroderecibodeingreso.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.SeleccionReporte.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Tesoreria.resources
