@@ -49,3 +49,5 @@ E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\login\obj\De
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\login\obj\Debug\login.Tesoreria.resources
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\login\obj\Debug\login.VentanaPrincipal.resources
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.exe
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.pdb
