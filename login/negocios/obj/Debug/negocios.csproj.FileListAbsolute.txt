@@ -5,3 +5,10 @@ D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\bin\Debug\datos.
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.csprojResolveAssemblyReference.cache
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.dll
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.pdb
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\bin\Debug\negocios.dll
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\bin\Debug\negocios.pdb
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\bin\Debug\datos.dll
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\bin\Debug\datos.pdb
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\obj\Debug\negocios.csprojResolveAssemblyReference.cache
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\obj\Debug\negocios.dll
+E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\negocios\obj\Debug\negocios.pdb
