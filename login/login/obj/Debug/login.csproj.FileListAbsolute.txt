@@ -27,3 +27,5 @@ D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Reg
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Registroderecibodeingreso.resources
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.SeleccionReporte.resources
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\login\obj\Debug\login.Tesoreria.resources
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\login\obj\Debug\login.exe
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\login\obj\Debug\login.pdb

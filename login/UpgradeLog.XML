@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="login">
+</Property><Property Name="Solution File" Value="C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\login.sln">
+</Property><Property Name="Date" Value="miércoles, 11 de diciembre de 2019">
+</Property><Property Name="Time" Value="14:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="login.sln" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login.sln">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login.csproj" Description="Project file successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login.csproj">
+</Event><Event ErrorLevel="0" Project="login" Source="login\AfectacionPresupuestal.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\AfectacionPresupuestal.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\AfectacionPresupuestal.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\AfectacionPresupuestal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login2.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login2.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login2.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Program.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Program.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodecaja.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodecaja.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodecaja.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodecaja.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodeingreso.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodeingreso.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodeingreso.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodeingreso.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registrodeclientes.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registrodeclientes.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registrodeclientes.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registrodeclientes.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodecaja.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodecaja.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodecaja.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodecaja.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodeingreso.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodeingreso.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodeingreso.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodeingreso.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\SeleccionReporte.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\SeleccionReporte.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\SeleccionReporte.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\SeleccionReporte.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Tesoreria.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Tesoreria.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Tesoreria.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Tesoreria.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\VentanaPrincipal.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\VentanaPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\VentanaPrincipal.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\VentanaPrincipal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Properties\Settings.settings" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="login" Source="login\AfectacionPresupuestal.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\AfectacionPresupuestal.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login2.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\login2.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Properties\Resources.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodecaja.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodecaja.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Recibodeingreso.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Recibodeingreso.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registrodeclientes.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registrodeclientes.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodecaja.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodecaja.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Registroderecibodeingreso.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Registroderecibodeingreso.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\SeleccionReporte.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\SeleccionReporte.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\Tesoreria.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\Tesoreria.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\VentanaPrincipal.resx" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\login\VentanaPrincipal.resx">
+</Event><Event ErrorLevel="0" Project="login" Source="login\login.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="login" Source="login\login.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="negocios" Source="negocios\negocios.csproj" Description="Project file successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\negocios\negocios.csproj">
+</Event><Event ErrorLevel="0" Project="negocios" Source="negocios\conexionSQLN.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\negocios\conexionSQLN.cs">
+</Event><Event ErrorLevel="0" Project="negocios" Source="negocios\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\negocios\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="negocios" Source="negocios\negocios.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="negocios" Source="negocios\negocios.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="datos" Source="datos\datos.csproj" Description="Project file successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\datos\datos.csproj">
+</Event><Event ErrorLevel="0" Project="datos" Source="datos\ConexionSQL.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\datos\ConexionSQL.cs">
+</Event><Event ErrorLevel="0" Project="datos" Source="datos\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\Backup\datos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="datos" Source="datos\datos.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="datos" Source="datos\datos.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="login.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="login.sln" Description="Converted">
+</Event></UpgradeLog>
