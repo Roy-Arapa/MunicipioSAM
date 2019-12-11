@@ -13,6 +13,7 @@ namespace negocios
         public int conSQL(string DNI, string PATERNO)
         {
             return cn.consultalogin(DNI, PATERNO);
+            
         }
 
         public int conSQL1(string USUARIO, string CONTRASENA)
