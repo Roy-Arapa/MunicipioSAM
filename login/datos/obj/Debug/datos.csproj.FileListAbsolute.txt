@@ -8,3 +8,8 @@ E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\datos\bin\De
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\datos\obj\Debug\datos.dll
 E:\UNA PUNO\VI SEMESTRE\Sistemas de Información\MunicipioSAM\login\datos\obj\Debug\datos.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\datos\bin\Debug\datos.dll
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\datos\bin\Debug\datos.pdb
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\datos\obj\Debug\datos.dll
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\datos\obj\Debug\datos.pdb

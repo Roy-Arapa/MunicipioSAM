@@ -50,6 +50,12 @@
     <Compile Include="AfectacionPresupuestal.Designer.cs">
       <DependentUpon>AfectacionPresupuestal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Detalledeafectacionpresupuestal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalledeafectacionpresupuestal.Designer.cs">
+      <DependentUpon>Detalledeafectacionpresupuestal.cs</DependentUpon>
+    </Compile>
     <Compile Include="login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,9 @@
     </Compile>
     <EmbeddedResource Include="AfectacionPresupuestal.resx">
       <DependentUpon>AfectacionPresupuestal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalledeafectacionpresupuestal.resx">
+      <DependentUpon>Detalledeafectacionpresupuestal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
