@@ -30,11 +30,18 @@
         {
             this.label5 = new System.Windows.Forms.Label();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
-            this.btninsertar = new System.Windows.Forms.Button();
+            this.btndetalle = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.btncerrar = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.tipodocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nrodocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fdocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ruc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.estadosiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.expsiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.finterface = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -45,13 +52,6 @@
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
-            this.tipodocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nrodocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fdocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ruc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.estadosiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.expsiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.finterface = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,14 +72,15 @@
             this.comboBox4.Size = new System.Drawing.Size(87, 21);
             this.comboBox4.TabIndex = 66;
             // 
-            // btninsertar
+            // btndetalle
             // 
-            this.btninsertar.Location = new System.Drawing.Point(12, 331);
-            this.btninsertar.Name = "btninsertar";
-            this.btninsertar.Size = new System.Drawing.Size(79, 23);
-            this.btninsertar.TabIndex = 65;
-            this.btninsertar.Text = "Detalle";
-            this.btninsertar.UseVisualStyleBackColor = true;
+            this.btndetalle.Location = new System.Drawing.Point(12, 331);
+            this.btndetalle.Name = "btndetalle";
+            this.btndetalle.Size = new System.Drawing.Size(79, 23);
+            this.btndetalle.TabIndex = 65;
+            this.btndetalle.Text = "Detalle";
+            this.btndetalle.UseVisualStyleBackColor = true;
+            this.btndetalle.Click += new System.EventHandler(this.btndetalle_Click);
             // 
             // label13
             // 
@@ -98,6 +99,7 @@
             this.btncerrar.TabIndex = 62;
             this.btncerrar.Text = "Cerrar";
             this.btncerrar.UseVisualStyleBackColor = true;
+            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
             // button1
             // 
@@ -123,6 +125,41 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(830, 251);
             this.dataGridView1.TabIndex = 60;
+            // 
+            // tipodocumento
+            // 
+            this.tipodocumento.HeaderText = "Tipo Documento";
+            this.tipodocumento.Name = "tipodocumento";
+            // 
+            // nrodocumento
+            // 
+            this.nrodocumento.HeaderText = "Nro Documento";
+            this.nrodocumento.Name = "nrodocumento";
+            // 
+            // fdocumento
+            // 
+            this.fdocumento.HeaderText = "Fecha Documento";
+            this.fdocumento.Name = "fdocumento";
+            // 
+            // ruc
+            // 
+            this.ruc.HeaderText = "RUC";
+            this.ruc.Name = "ruc";
+            // 
+            // estadosiaf
+            // 
+            this.estadosiaf.HeaderText = "Estado SIAF";
+            this.estadosiaf.Name = "estadosiaf";
+            // 
+            // expsiaf
+            // 
+            this.expsiaf.HeaderText = "Exp. SIAF";
+            this.expsiaf.Name = "expsiaf";
+            // 
+            // finterface
+            // 
+            this.finterface.HeaderText = "Fecha Interface";
+            this.finterface.Name = "finterface";
             // 
             // comboBox3
             // 
@@ -208,41 +245,6 @@
             this.textBox2.Size = new System.Drawing.Size(61, 20);
             this.textBox2.TabIndex = 74;
             // 
-            // tipodocumento
-            // 
-            this.tipodocumento.HeaderText = "Tipo Documento";
-            this.tipodocumento.Name = "tipodocumento";
-            // 
-            // nrodocumento
-            // 
-            this.nrodocumento.HeaderText = "Nro Documento";
-            this.nrodocumento.Name = "nrodocumento";
-            // 
-            // fdocumento
-            // 
-            this.fdocumento.HeaderText = "Fecha Documento";
-            this.fdocumento.Name = "fdocumento";
-            // 
-            // ruc
-            // 
-            this.ruc.HeaderText = "RUC";
-            this.ruc.Name = "ruc";
-            // 
-            // estadosiaf
-            // 
-            this.estadosiaf.HeaderText = "Estado SIAF";
-            this.estadosiaf.Name = "estadosiaf";
-            // 
-            // expsiaf
-            // 
-            this.expsiaf.HeaderText = "Exp. SIAF";
-            this.expsiaf.Name = "expsiaf";
-            // 
-            // finterface
-            // 
-            this.finterface.HeaderText = "Fecha Interface";
-            this.finterface.Name = "finterface";
-            // 
             // AfectacionPresupuestal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -253,7 +255,7 @@
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.comboBox4);
-            this.Controls.Add(this.btninsertar);
+            this.Controls.Add(this.btndetalle);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.btncerrar);
             this.Controls.Add(this.button1);
@@ -276,7 +278,7 @@
         #endregion
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox comboBox4;
-        private System.Windows.Forms.Button btninsertar;
+        private System.Windows.Forms.Button btndetalle;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Button btncerrar;
         private System.Windows.Forms.Button button1;

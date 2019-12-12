@@ -34,5 +34,17 @@ namespace login
             Recibodeingreso ingreso = new Recibodeingreso();
             ingreso.Show();
         }
+
+        private void btnafecppre_Click(object sender, EventArgs e)
+        {
+            AfectacionPresupuestal ap = new AfectacionPresupuestal();
+            ap.Show();
+        }
+
+        private void btnsalprecachi_Click(object sender, EventArgs e)
+        {
+            Saldopresupuestalcajachica caja = new Saldopresupuestalcajachica();
+            caja.Show();
+        }
     }
 }

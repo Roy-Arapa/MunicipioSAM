@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace login
 {
-    public partial class Detalledeafectacionpresupuestal : Form
+    public partial class Saldopresupuestalcajachica : Form
     {
-        public Detalledeafectacionpresupuestal()
+        public Saldopresupuestalcajachica()
         {
             InitializeComponent();
         }
@@ -19,6 +19,12 @@ namespace login
         private void btncerrar_Click(object sender, EventArgs e)
         {
             this.Hide();
+        }
+
+        private void btnPAO_Click(object sender, EventArgs e)
+        {
+            SaldoPAO spao = new SaldoPAO();
+            spao.Show();
         }
     }
 }

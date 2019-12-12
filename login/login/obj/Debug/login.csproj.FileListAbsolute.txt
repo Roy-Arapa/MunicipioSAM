@@ -71,3 +71,6 @@ D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.Tesoreria.resources
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.VentanaPrincipal.resources
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.Detalledeafectacionpresupuestal.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.SaldoPAO.resources
+D:\SEMESTRE VI\SISTEMAS DE INFORMACION\gitSAM\MunicipioSAM\login\login\obj\Debug\login.Saldopresupuestalcajachica.resources

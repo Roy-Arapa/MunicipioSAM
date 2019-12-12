@@ -32,6 +32,12 @@
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.btncerrar = new System.Windows.Forms.PictureBox();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
+            this.sec = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fase = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tp = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tr = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.estadosiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label13 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
@@ -68,18 +74,12 @@
             this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.sec = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fase = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tp = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tr = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.estadosiaf = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label12 = new System.Windows.Forms.Label();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.clasificador = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.monto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label12 = new System.Windows.Forms.Label();
             this.dataGridView4 = new System.Windows.Forms.DataGridView();
             this.label22 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -113,6 +113,7 @@
             this.btncerrar.Size = new System.Drawing.Size(20, 20);
             this.btncerrar.TabIndex = 57;
             this.btncerrar.TabStop = false;
+            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
             // dataGridView3
             // 
@@ -128,6 +129,39 @@
             this.dataGridView3.Name = "dataGridView3";
             this.dataGridView3.Size = new System.Drawing.Size(435, 101);
             this.dataGridView3.TabIndex = 56;
+            // 
+            // sec
+            // 
+            this.sec.HeaderText = "Sec.";
+            this.sec.Name = "sec";
+            // 
+            // fase
+            // 
+            this.fase.HeaderText = "Fase";
+            this.fase.Name = "fase";
+            // 
+            // tp
+            // 
+            this.tp.HeaderText = "TP";
+            this.tp.Name = "tp";
+            this.tp.Width = 30;
+            // 
+            // tr
+            // 
+            this.tr.HeaderText = "TR";
+            this.tr.Name = "tr";
+            this.tr.Width = 30;
+            // 
+            // tc
+            // 
+            this.tc.HeaderText = "TC";
+            this.tc.Name = "tc";
+            this.tc.Width = 30;
+            // 
+            // estadosiaf
+            // 
+            this.estadosiaf.HeaderText = "Estado SIAF";
+            this.estadosiaf.Name = "estadosiaf";
             // 
             // label13
             // 
@@ -425,39 +459,6 @@
             this.button1.Text = "Interface SIAF";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // sec
-            // 
-            this.sec.HeaderText = "Sec.";
-            this.sec.Name = "sec";
-            // 
-            // fase
-            // 
-            this.fase.HeaderText = "Fase";
-            this.fase.Name = "fase";
-            // 
-            // tp
-            // 
-            this.tp.HeaderText = "TP";
-            this.tp.Name = "tp";
-            this.tp.Width = 30;
-            // 
-            // tr
-            // 
-            this.tr.HeaderText = "TR";
-            this.tr.Name = "tr";
-            this.tr.Width = 30;
-            // 
-            // tc
-            // 
-            this.tc.HeaderText = "TC";
-            this.tc.Name = "tc";
-            this.tc.Width = 30;
-            // 
-            // estadosiaf
-            // 
-            this.estadosiaf.HeaderText = "Estado SIAF";
-            this.estadosiaf.Name = "estadosiaf";
-            // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -470,15 +471,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(557, 101);
             this.dataGridView1.TabIndex = 82;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(112, 445);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(133, 13);
-            this.label12.TabIndex = 81;
-            this.label12.Text = "[Resumen por Clasificador]";
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -499,6 +491,15 @@
             // 
             this.monto.HeaderText = "Monto S/.";
             this.monto.Name = "monto";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(112, 445);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(133, 13);
+            this.label12.TabIndex = 81;
+            this.label12.Text = "[Resumen por Clasificador]";
             // 
             // dataGridView4
             // 

@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace login
 {
-    public partial class Detalledeafectacionpresupuestal : Form
+    public partial class SaldoPAO : Form
     {
-        public Detalledeafectacionpresupuestal()
+        public SaldoPAO()
         {
             InitializeComponent();
         }
