@@ -29,7 +29,11 @@ namespace login
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             MessageBox.Show("Bienvenidos a SAM");
+=======
+
+>>>>>>> dd7f079cc57f440af3dca40207546d11f032131a
         }
 
         private void txtuser_Enter(object sender, EventArgs e)

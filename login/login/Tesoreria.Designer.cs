@@ -46,8 +46,8 @@
             this.toolStripMenuItem16 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem17 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem18 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem19 = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnafecppre = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnsalprecachi = new System.Windows.Forms.ToolStripMenuItem();
             this.btnsalir = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.menuStrip1.SuspendLayout();
@@ -185,23 +185,25 @@
             // toolStripMenuItem6
             // 
             this.toolStripMenuItem6.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripMenuItem18,
-            this.toolStripMenuItem19});
+            this.btnafecppre,
+            this.btnsalprecachi});
             this.toolStripMenuItem6.Name = "toolStripMenuItem6";
             this.toolStripMenuItem6.Size = new System.Drawing.Size(152, 20);
             this.toolStripMenuItem6.Text = "GESTION PRESUPUESTAL";
             // 
-            // toolStripMenuItem18
+            // btnafecppre
             // 
-            this.toolStripMenuItem18.Name = "toolStripMenuItem18";
-            this.toolStripMenuItem18.Size = new System.Drawing.Size(237, 22);
-            this.toolStripMenuItem18.Text = "Aceptacion presupuestal";
+            this.btnafecppre.Name = "btnafecppre";
+            this.btnafecppre.Size = new System.Drawing.Size(237, 22);
+            this.btnafecppre.Text = "Afectacion presupuestal";
+            this.btnafecppre.Click += new System.EventHandler(this.btnafecppre_Click);
             // 
-            // toolStripMenuItem19
+            // btnsalprecachi
             // 
-            this.toolStripMenuItem19.Name = "toolStripMenuItem19";
-            this.toolStripMenuItem19.Size = new System.Drawing.Size(237, 22);
-            this.toolStripMenuItem19.Text = "Saldo presupestal de caja chica";
+            this.btnsalprecachi.Name = "btnsalprecachi";
+            this.btnsalprecachi.Size = new System.Drawing.Size(237, 22);
+            this.btnsalprecachi.Text = "Saldo presupestal de caja chica";
+            this.btnsalprecachi.Click += new System.EventHandler(this.btnsalprecachi_Click);
             // 
             // btnsalir
             // 
@@ -258,8 +260,8 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem16;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem17;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem6;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem18;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem19;
+        private System.Windows.Forms.ToolStripMenuItem btnafecppre;
+        private System.Windows.Forms.ToolStripMenuItem btnsalprecachi;
         private System.Windows.Forms.Button btnsalir;
         private System.Windows.Forms.Panel panel1;
     }

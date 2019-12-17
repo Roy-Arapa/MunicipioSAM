@@ -27,11 +27,6 @@ namespace login
 
 
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            MessageBox.Show("Bienvenidos a SAM");
-        }
-
         private void txtuser_Enter(object sender, EventArgs e)
         {
             if (txtuser.Text == "USUARIO")
