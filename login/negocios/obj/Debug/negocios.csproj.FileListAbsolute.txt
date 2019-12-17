@@ -5,3 +5,10 @@ D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\bin\Debug\datos.
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.csprojResolveAssemblyReference.cache
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.dll
 D:\SEMESTRE VI\SISTEMAS DE INFORMACION\Municipio\login\negocios\obj\Debug\negocios.pdb
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\bin\Debug\negocios.dll
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\bin\Debug\negocios.pdb
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\bin\Debug\datos.dll
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\bin\Debug\datos.pdb
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\obj\Debug\negocios.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\obj\Debug\negocios.dll
+C:\Users\ASUS\Desktop\C#\SAM\MunicipioSAM\login\negocios\obj\Debug\negocios.pdb
