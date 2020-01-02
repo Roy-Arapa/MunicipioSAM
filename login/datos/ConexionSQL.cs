@@ -9,15 +9,14 @@ namespace datos
 {
     public class ConexionSQL
     {
-        static string conexionstring = "server = localhost; database = dbMunicipio;" +
+        static string conexionstring = "server = localhost; database = Municipio;" +
             "integrated security = true";
         SqlConnection con = new SqlConnection(conexionstring);
 
-        public int consultalogin(string Dni, string Paterno)
-        {
+        public int consultalogin(string Dni, string Paterno){
             int count;
             con.Open();
-            string Query = "select Count(*) From Usuario where dni = '" +Dni+ "' and paterno = '"+Paterno+"'";
+            string Query = "select Count(*) From Usuario where nom_usuario = '" +Dni+ "' and contraseña = '"+Paterno+"'";
             SqlCommand cmd = new SqlCommand(Query, con);
             count = Convert.ToInt32(cmd.ExecuteScalar());
             con.Close();
